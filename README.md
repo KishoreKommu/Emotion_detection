@@ -201,9 +201,3 @@ python realtime_emotion_detection.py
 B.Tech IT Student | Aspiring Software Engineer
 
 ---
-
-## ⭐ Conclusion
-
-This project demonstrates the practical application of **Deep Learning and Computer Vision** in analyzing human emotions. It provides a strong foundation for building intelligent AI-based systems and enhances real-world problem-solving skills.
-
----
